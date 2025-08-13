@@ -24,58 +24,50 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 ## 📊 Visualizations & Insights  
 
 ### 1. **Word Cloud**
-![Word Cloud](Screenshot%202025-08-13%20at%204.02.54 AM.png)  
-- Visualizes frequently occurring keywords in titles.
-- Highlights popular themes like *Black*, *American*, *Christmas*, and *Chhota*.
+![Word Cloud](https://drive.google.com/uc?id=1rFGwqeAUTc2Odhs0QnfGUl3PmczB4Tmv)  
 
 ---
 
 ### 2. **Dashboard: Global Strategy Overview**
-![Dashboard](Screenshot%202025-08-13%20at%204.03.02 AM.png)  
-- Combines multiple views: Country-wise Production, Word Cloud, Top Genres, and Movies vs TV Shows.
-- Shows how Netflix is producing diverse genres for different markets.
+![Dashboard](https://drive.google.com/uc?id=1ifxbBKmrpt3n3cQ3hYbm2oDLF3egKX9A)  
 
 ---
 
 ### 3. **Storytelling Slide**
-![Storytelling](Screenshot%202025-08-13%20at%204.03.10 AM.png)  
-- Narrates Netflix’s shift toward TV Shows to increase engagement.
-- Explains how genres like *International Dramas* gained prominence globally.
-- Highlights post-2020 rise in escapist genres due to pandemic.
+![Storytelling](https://drive.google.com/uc?id=1SyOq2w-W-SckaHlzh3P9fUGBoqMpc9Vh)  
 
 ---
 
 ### 4. **Country-wise Production**
-![Country-wise Map](Screenshot%202025-08-13%20at%204.03.17 AM.png)  
-- India, USA, and UK lead in Netflix content production.
-- Expanding presence in non-English speaking countries.
+![Country-wise Map](https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
 
 ---
 
 ### 5. **Top Genres**
-![Top Genres](Screenshot%202025-08-13%20at%204.04.03 AM.png)  
-- Top genres include *Dramas*, *International Movies*, *Documentaries*, and *Stand-Up Comedy*.
-- Strong demand for culturally diverse stories.
+![Top Genres](https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
 
 ---
 
 ### 6. **Movies vs TV Shows**
-![Movies vs TV Shows](Screenshot%202025-08-13%20at%204.04.19 AM.png)  
-- Movies dominate in total count, but TV Shows have grown steadily in recent years.
+![Movies vs TV Shows](https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
 
 ---
 
 ### 7. **Titles by Year**
-![Titles by Year](Screenshot%202025-08-13%20at%204.04.35 AM.png)  
-- Significant growth post-2015 due to Netflix Originals investment.
-- Peak content addition in 2019, followed by a drop during COVID-19.
+![Titles by Year](https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
+
+---
+
+## 🎥 Project Video Presentation  
+[Watch the Video](https://drive.google.com/file/d/1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43/view?usp=sharing)  
 
 ---
 
 ## 📂 Files Included  
 - `DS-620_Final_KB.twb` → Tableau workbook file.  
 - `netflix_titles.csv` → Dataset from Kaggle.  
-- Screenshots → PNG images of all dashboards and visualizations.
+- Screenshots → Google Drive-hosted images.  
+- Presentation Video → Google Drive link above.
 
 ---
 
