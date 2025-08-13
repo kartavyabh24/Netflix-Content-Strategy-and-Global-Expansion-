@@ -24,37 +24,37 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 ## 📊 Visualizations & Insights  
 
 ### 1. **Word Cloud**
-![Word Cloud]([https://drive.google.com/uc?id=1rFGwqeAUTc2Odhs0QnfGUl3PmczB4Tmv](https://drive.google.com/file/d/1ldmRcHf7gdqYXKv1LA3HvY3XHJ0AVXmZ/view?usp=sharing))  
+![Word Cloud](https://drive.google.com/uc?id=1ldmRcHf7gdqYXKv1LA3HvY3XHJ0AVXmZ)  
 
 ---
 
 ### 2. **Storytelling Slide**
-![Storytelling]([https://drive.google.com/uc?id=1SyOq2w-W-SckaHlzh3P9fUGBoqMpc9Vh](https://drive.google.com/file/d/1E7pEQjE2n0JP6L7G3N10t0Y2L_2ChMFW/view?usp=sharing))  
+![Storytelling](https://drive.google.com/uc?id=1E7pEQjE2n0JP6L7G3N10t0Y2L_2ChMFW)  
 
 ---
 
 ### 3. **Country-wise Production**
-![Country-wise Map]([https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43](https://drive.google.com/file/d/1qjKCRUlwuA_R-KhL86plWPG_CAibNmLU/view?usp=sharing))  
+![Country-wise Map](https://drive.google.com/uc?id=1qjKCRUlwuA_R-KhL86plWPG_CAibNmLU)  
 
 ---
 
 ### 4. **Top Genres**
-![Top Genres]([https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43](https://drive.google.com/file/d/1SyOq2w-W-SckaHlzh3P9fUGBoqMpc9Vh/view?usp=sharing))  
+![Top Genres](https://drive.google.com/uc?id=1SyOq2w-W-SckaHlzh3P9fUGBoqMpc9Vh)  
 
 ---
 
 ### 5. **Movies vs TV Shows**
-![Movies vs TV Shows]([https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43](https://drive.google.com/file/d/1ifxbBKmrpt3n3cQ3hYbm2oDLF3egKX9A/view?usp=sharing))  
+![Movies vs TV Shows](https://drive.google.com/uc?id=1ifxbBKmrpt3n3cQ3hYbm2oDLF3egKX9A)  
 
 ---
 
 ### 6. **Titles by Year**
-![Titles by Year]([https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43](https://drive.google.com/file/d/1rFGwqeAUTc2Odhs0QnfGUl3PmczB4Tmv/view?usp=sharing))  
+![Titles by Year](https://drive.google.com/uc?id=1rFGwqeAUTc2Odhs0QnfGUl3PmczB4Tmv)  
 
 ---
 
 ## 🎥 Project Video Presentation  
-[Watch the Video]([https://drive.google.com/file/d/1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43/view?usp=sharing](https://drive.google.com/file/d/1iT9hf7RmK7Xv9NRcFrIuaQCaoovTm_iK/view?usp=sharing))  
+[Watch the Video](https://drive.google.com/file/d/1iT9hf7RmK7Xv9NRcFrIuaQCaoovTm_iK/view?usp=sharing)  
 
 ---
 
@@ -87,4 +87,3 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 - **Author:** Kartavya Bhardwaj.  
 
 ---
-
