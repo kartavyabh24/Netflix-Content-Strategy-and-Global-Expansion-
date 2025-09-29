@@ -7,17 +7,17 @@
 
 ## 📌 Project Overview  
 This project explores **Netflix’s content strategy** and **global expansion trends** using the Netflix Movies & TV Shows dataset.  
-The analysis was conducted in **Tableau**, focusing on production patterns, genre popularity, and shifts in content strategy pre- and post-COVID.  
+The analysis was conducted in **Tableau**, focusing on production patterns, genre popularity, and shifts in content strategy before and after COVID-19.  
 
 ---
 
 ## 🎯 Objectives  
 - Analyze **country-wise content production** to understand Netflix’s global footprint.  
-- Compare **Movies vs TV Shows** production trends.  
-- Identify **top-performing genres** and their global appeal.  
-- Use **Word Cloud** to visualize title keywords and themes.  
+- Compare **Movies vs. TV Shows** production trends.  
+- Identify **top-performing genres** and their worldwide appeal.  
+- Use a **Word Cloud** to visualize recurring keywords and themes in titles.  
 - Study **year-wise content addition** to spot growth patterns.  
-- Apply **storytelling techniques** to present Netflix’s strategy shift over time.  
+- Apply **data storytelling techniques** to highlight Netflix’s evolving strategy.  
 
 ---
 
@@ -34,7 +34,7 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 ---
 
 ### 3. **Country-wise Production**
-![Country-wise Map](https://drive.google.com/file/d/1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
+![Country-wise Map](https://drive.google.com/uc?id=1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43)  
 
 ---
 
@@ -43,7 +43,7 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 
 ---
 
-### 5. **Movies vs TV Shows**
+### 5. **Movies vs. TV Shows**
 ![Movies vs TV Shows](https://drive.google.com/uc?id=1ifxbBKmrpt3n3cQ3hYbm2oDLF3egKX9A)  
 
 ---
@@ -54,7 +54,7 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 ---
 
 ## 🎥 Project Video Presentation  
-[Watch the Video](https://drive.google.com/file/d/1iT9hf7RmK7Xv9NRcFrIuaQCaoovTm_iK/view?usp=sharing)  
+[▶️ Watch the Video](https://drive.google.com/file/d/1iT9hf7RmK7Xv9NRcFrIuaQCaoovTm_iK/view?usp=sharing)  
 
 ---
 
@@ -68,26 +68,22 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 
 ## 📈 Key Takeaways  
 1. **Strategic Genre Focus** – Dramas, Documentaries, and International Movies dominate Netflix’s library.  
-2. **Global Expansion** – Netflix is producing localized content for multiple countries, especially in Asia and Europe.  
-3. **Shift Toward TV Shows** – TV shows are being prioritized for user retention and engagement.  
-4. **Pandemic Impact** – COVID-19 shifted content preferences toward escapist entertainment.
+2. **Global Expansion** – Netflix is investing in localized content across Asia and Europe.  
+3. **Shift Toward TV Shows** – TV shows are prioritized for user engagement and retention.  
+4. **Pandemic Impact** – COVID-19 boosted demand for escapist and binge-worthy content.  
 
 ---
 
 ## 🚀 How to Use  
 1. Download the Tableau workbook (`.twb`) and dataset (`.csv`).  
-2. Open in Tableau Desktop / Tableau Public.  
-3. Explore dashboards and filters to analyze Netflix’s global content trends.  
+2. Open them in Tableau Desktop or Tableau Public.  
+3. Explore dashboards and apply filters to analyze Netflix’s global content trends.  
 
 ---
 
 ## 📜 Credits  
-- **Dataset:** Kaggle - Netflix Movies and TV Shows.  
-- **Visualization Tool:** Tableau Desktop.  
-- **Author:** Kartavya Bhardwaj.  
+- **Dataset:** Kaggle – Netflix Movies and TV Shows  
+- **Visualization Tool:** Tableau Desktop  
+- **Author:** Kartavya Bhardwaj  
 
 ---
-
-
-
-
