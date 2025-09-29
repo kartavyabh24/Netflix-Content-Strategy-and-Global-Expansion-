@@ -34,7 +34,7 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 ---
 
 ### 3. **Country-wise Production**
-![Country-wise Map]([https://drive.google.com/file/d/1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43/view]))  
+![Country-wise Map](https://drive.google.com/file/d/1vevEnUUnKd3JFk-Sow7c6eeubiJ8oC43/view)  
 
 ---
 
@@ -87,4 +87,5 @@ The analysis was conducted in **Tableau**, focusing on production patterns, genr
 - **Author:** Kartavya Bhardwaj.  
 
 ---
+
 
